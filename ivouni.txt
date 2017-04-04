@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ivouni vytvorili prvni soubor ve VIMu!!!
-To je super, ja pisu ve Vimu porad!
+To je super, ja pisu ve Vimu porad! Ivouni uz chudak nema svuj obsah!
+
+Chudak!
+>>>>>>> Olinky zasah na Ivouni souboru.
