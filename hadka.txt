@@ -1,0 +1,2 @@
+v = skúšam program git
+print(v)
