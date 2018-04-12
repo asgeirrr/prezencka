@@ -1,1 +1,0 @@
-Tohle je text bez většího významu, slouží pouze ke zkoušení funkcionalit Git Hubu.
