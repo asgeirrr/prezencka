@@ -1,0 +1,1925 @@
+[33mcommit 8fa9a8763389253e113c01ef0b986d8b41a0fef0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Oct 16 21:31:37 2018 +0200
+
+    Odstranit soubory z minulých běhů
+
+[33mcommit fc282df6d09977fb2c28183590fc44f99c0d1e4c[m
+Merge: 083e6ba 29936e1
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Sun Oct 7 12:22:54 2018 +0000
+
+    Merge pull request #119 from balrog-nona/master
+    
+    Pridala jsem svuj soubor - ucim se doma podle Vasich tutorialu.
+
+[33mcommit 29936e112fedf8bb43cba5526360a2537a617726[m
+Author: balrog <nona.h@seznam.cz>
+Date:   Sat Oct 6 20:20:19 2018 +0200
+
+    Pridala jsem svuj soubor - ucim se doma podle Vasich tutorialu.
+
+[33mcommit 083e6bac8578775ae3bd4bbced892dd0b04befa2[m
+Merge: 28941ef e614845
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Thu Apr 19 08:40:03 2018 +0000
+
+    Merge pull request #118 from MiruKadlecova/master
+    
+    Test
+
+[33mcommit 28941ef00966e93702ba32673dd8e2b8de07c95a[m
+Merge: c53fa75 51e5988
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:48:12 2018 +0000
+
+    Merge pull request #39 from Jahlis/master
+    
+    Přidán čas, kdy jsem na tomto pracovala.
+
+[33mcommit c53fa75ea27c71d88f2c294172f4fc3ed5986982[m
+Merge: 66f7069 a9291db
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:47:43 2018 +0000
+
+    Merge pull request #76 from monase9/patch-1
+    
+    monika_vlckova.txt
+
+[33mcommit 66f7069d639cbf5d1cbb4fa77710dbade43a0818[m
+Merge: 3766874 be54eea
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:46:32 2018 +0000
+
+    Merge pull request #109 from msvobodova/master
+    
+    Prvni commit
+
+[33mcommit 37668749077f21bf3f20613f16adf410d779ceb6[m
+Merge: b555fba 08ab001
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:46:20 2018 +0000
+
+    Merge pull request #108 from MartyRadka/master
+    
+    Predstaveni Radky
+
+[33mcommit b555fba772c912ed3ca499452923b6a2b6f985ad[m
+Merge: 8b80c6e 01f4445
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:45:27 2018 +0000
+
+    Merge pull request #107 from karolinaje/master
+    
+    Predstaveni KarolinyJe
+
+[33mcommit 8b80c6e6651bc648c8bbc7e40b55ef7b12913161[m
+Merge: 50011ea 88767f2
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:44:05 2018 +0000
+
+    Merge pull request #110 from KajaMatejkova/master
+    
+    Představení Kaji
+
+[33mcommit 50011ea8c807ad3cd7136124e35e129ee709cff1[m
+Merge: d2180b8 6f9cab2
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:41:59 2018 +0000
+
+    Merge pull request #111 from skalnikova/master
+    
+    Predstaveni Kaji a Vojtovo tajemstvi
+
+[33mcommit d2180b83b0a0ccf489aeeea2ad88c7aa2aebb2ea[m
+Merge: 78c0a78 6528dc2
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:39:32 2018 +0000
+
+    Merge pull request #112 from blankapilatova/master
+    
+    Blanička
+
+[33mcommit 78c0a782f959abfa3e378362d9ec77a117413fbe[m
+Merge: 7efcf41 ef9ad00
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:36:14 2018 +0000
+
+    Merge pull request #115 from pristanna/master
+    
+    Můj první pull request - myslím, že budeš happy :-)
+
+[33mcommit 7efcf41830f8f9b8b507f84df51522748595fa90[m
+Merge: a0d6a4d 5a7d25b
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Fri Apr 13 08:35:35 2018 +0000
+
+    Merge pull request #117 from Blanka109/master
+    
+    ahoj
+
+[33mcommit a0d6a4dbc7f59c1f41165af3472573f72c22eed1[m
+Merge: eb12224 66aa914
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Thu Apr 12 17:58:50 2018 +0000
+
+    Merge pull request #113 from michaelaradova/master
+    
+    pozdrav od Misi
+
+[33mcommit eb12224897004f08b70f1ada09d8d48a22cc3bb1[m
+Merge: 86053af 5585682
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Thu Apr 12 17:55:10 2018 +0000
+
+    Merge pull request #106 from magdarettigova/master
+    
+    Predstaveni Magdy
+
+[33mcommit 86053afa847d8a19e029bfa7eeab4fa4661e3e89[m
+Merge: d56a53e dd4166a
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Thu Apr 12 17:51:34 2018 +0000
+
+    Merge pull request #116 from market4/master
+    
+    změna neni nutna
+
+[33mcommit d56a53e320d4e5a28b2e18f0865a7cac2b9f08d5[m
+Merge: 0ca761e f232586
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Thu Apr 12 17:50:32 2018 +0000
+
+    Merge pull request #114 from kponcova/master
+    
+    Predstaveni Kristyny
+
+[33mcommit 66aa9143dc51b6c97d2659d1b9a0144b68eb3639[m
+Author: Míša R <michaela.radova@email.cz>
+Date:   Thu Apr 12 19:24:31 2018 +0200
+
+    pridan muj druhy soubor
+
+[33mcommit 08ab001da4561bece6d4ea88f43535cd132ffbe8[m
+Author: Radka Marty <martyradka@gmail.com>
+Date:   Thu Apr 12 19:22:28 2018 +0200
+
+    Blizsi specifikace oblibeneho sportu
+
+[33mcommit dd4166a6d6e8895cf87805bf4ae6230953e3b39c[m
+Author: Markéta.Macháčková <marketmach@email.cz>
+Date:   Thu Apr 12 19:21:30 2018 +0200
+
+    něco sem udělala nevim co
+
+[33mcommit ef9ad0065539777670e3356fe0f0447464471474[m
+Author: pristanna <ap85@seznam.cz>
+Date:   Thu Apr 12 19:21:00 2018 +0200
+
+    Druhý soubor co jsem vytvořila
+
+[33mcommit 528820ead934e05a0823ee62c3bf8cfd40a4aa41[m
+Author: Radka Marty <martyradka@gmail.com>
+Date:   Thu Apr 12 19:20:08 2018 +0200
+
+    Prezentace mych konicku
+
+[33mcommit 6528dc2a5350f6e8eda4dada53718ea24354ff1b[m
+Author: Blanka Pilátová <blanipilat@gmail.com>
+Date:   Thu Apr 12 19:19:50 2018 +0200
+
+    KONICKY
+
+[33mcommit 01f4445114cac260c66563c2d62725a77642367d[m
+Author: Karolína Jastřembská <st30646@student.upce.cz>
+Date:   Thu Apr 12 19:19:46 2018 +0200
+
+    Pridala jsem moje konicky
+
+[33mcommit 88767f27ff22fffa9395a95ce3708cf50cf121a7[m
+Author: Kája <kaja@joja.cz>
+Date:   Thu Apr 12 19:19:45 2018 +0200
+
+    Přidány moje koníčky
+
+[33mcommit 55856823d129cb23b40ac4d7c5be0470c616fa77[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Thu Apr 12 19:19:35 2018 +0200
+
+    Pridat konicky Magdy
+
+[33mcommit f2325868f1b32101fc40a03c62333bec1490b899[m
+Author: Kristyna Poncova <k.poncova@gmail.com>
+Date:   Thu Apr 12 19:19:26 2018 +0200
+
+    pridala jsem dalsi soubor s konickama
+
+[33mcommit 6f9cab2ae67da7ca577548e78e49e2a55890a93c[m
+Author: Karolina Skalnikova <karolinaskalnikova@Karolinas-MacBook-Air.local>
+Date:   Thu Apr 12 19:19:20 2018 +0200
+
+    Moje nejoblíbenější činnosti.
+
+[33mcommit be54eea56f426d3645cfc5724ecd13241f9d5fb2[m
+Author: Markéta Svobodová <marketasvobodova18@gmail.com>
+Date:   Thu Apr 12 19:19:07 2018 +0200
+
+    Novy soubor
+
+[33mcommit c5acafd374eeb02681e5eee01528a345a00eddc1[m
+Author: pristanna <ap85@seznam.cz>
+Date:   Thu Apr 12 19:07:59 2018 +0200
+
+    Druhá verze souboru se smazaným třetím řádkem
+
+[33mcommit 401540543c1912deb10cf20dfe96a0a048961aad[m
+Author: Míša R <michaela.radova@email.cz>
+Date:   Thu Apr 12 19:01:48 2018 +0200
+
+    zmena obsahu souboru Misa.txt
+
+[33mcommit e61484556c2531a63333b1b9b23c80fb202d60eb[m
+Author: Miroslava Kadlecová <miroslava.kadlecova@gmail.com>
+Date:   Thu Apr 12 19:01:36 2018 +0200
+
+    Pridala jsem dalsi radek, je to zajimavejsi nez co delam.
+
+[33mcommit 664c7eccfc1a88f610965da95b07b70ee79d8252[m
+Author: Kája <kaja@joja.cz>
+Date:   Thu Apr 12 19:01:22 2018 +0200
+
+    Předstávím se tím co jsem měl k obědu
+
+[33mcommit 05306e287fb970cbb9edc6fb7d139a7dc1c3c89f[m
+Author: Radka Marty <martyradka@gmail.com>
+Date:   Thu Apr 12 19:01:19 2018 +0200
+
+    Pridam neco o sobe
+
+[33mcommit 9bac3596d17b49fe5a40a5f56ad7694e2c828083[m
+Author: Karolína Jastřembská <st30646@student.upce.cz>
+Date:   Thu Apr 12 19:01:15 2018 +0200
+
+    Predstavim se radeji tim, cim se zabyvam v soucasnosti.
+
+[33mcommit 571574d25701c02b82a5f851dfcf330f23b02065[m
+Author: Blanka Pilátová <blanipilat@gmail.com>
+Date:   Thu Apr 12 19:01:13 2018 +0200
+
+    RADECEK
+
+[33mcommit 6cb034639fa29649a1d8038d15305d7c12b48a73[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Thu Apr 12 19:01:12 2018 +0200
+
+    Predstavim se radsi tim, co jsem dnes mela k obedu
+
+[33mcommit d8737cee34243618bb38041a71d8fc9ada7d3893[m
+Author: Markéta Svobodová <marketasvobodova18@gmail.com>
+Date:   Thu Apr 12 19:01:08 2018 +0200
+
+    Modifikovaný text
+
+[33mcommit 5a7d25bb89dbf60d39c91c0daaad8cb9c1e0dc62[m
+Author: Blanka <blanka.turcanova@gmail.com>
+Date:   Thu Apr 12 19:00:43 2018 +0200
+
+    kddlkfhldkfhld
+
+[33mcommit 55f0a6aefab651aefb92a8389eed8fe9af8d500e[m
+Author: Markéta.Macháčková <marketmach@email.cz>
+Date:   Thu Apr 12 18:59:22 2018 +0200
+
+    uprava textu maky
+
+[33mcommit df046c597e843a7f1e058da7663b60b267b44760[m
+Author: pristanna <ap85@seznam.cz>
+Date:   Thu Apr 12 18:56:55 2018 +0200
+
+    První soubor se dvěma řádky
+
+[33mcommit 2c364495a7e16f00e5d0122263341932891316d3[m
+Author: Kristyna Poncova <k.poncova@gmail.com>
+Date:   Thu Apr 12 18:56:53 2018 +0200
+
+    dalsi radek pridan
+
+[33mcommit 147932cfae1bddbb8c801e81d6c798637977430b[m
+Author: Blanka <blanka.turcanova@gmail.com>
+Date:   Thu Apr 12 18:53:40 2018 +0200
+
+    hrhgliuhg
+
+[33mcommit 8746bf26a802a3597043341dee3be49f742667d7[m
+Author: Karolina Skalnikova <karolinaskalnikova@Karolinas-MacBook-Air.local>
+Date:   Thu Apr 12 18:50:55 2018 +0200
+
+    Druhá změna.
+
+[33mcommit c795bc0492d164fec85f721c575bd8cbbbb484ab[m
+Author: Kristyna Poncova <k.poncova@gmail.com>
+Date:   Thu Apr 12 18:44:17 2018 +0200
+
+    pridala jsem dalsi informaci
+
+[33mcommit 78a57eb58324952154e4319b6e7c18d11b1b5833[m
+Author: pristanna <ap85@seznam.cz>
+Date:   Thu Apr 12 18:44:13 2018 +0200
+
+    aefgawegaw
+
+[33mcommit b694699a4a0b47c82edf410ef3077f2c25d45318[m
+Author: Blanka <blanka.turcanova@gmail.com>
+Date:   Thu Apr 12 18:43:49 2018 +0200
+
+    igůokjgůikj
+
+[33mcommit 90376bef4e9e268382fba24c622654bd2ea52867[m
+Author: Karolina Skalnikova <karolinaskalnikova@Karolinas-MacBook-Air.local>
+Date:   Thu Apr 12 18:42:29 2018 +0200
+
+    Vojtovo tajemstvi.
+    
+    Ucim se git.
+
+[33mcommit 4286863fc82c300ed964f614f3415f3aa22670cd[m
+Author: Markéta.Macháčková <marketmach@email.cz>
+Date:   Thu Apr 12 18:41:04 2018 +0200
+
+    Pridat jmeno Maky
+    
+    ucime se Git a tohle je moje prvni zmena
+
+[33mcommit aef468aff669ecba9a4ba3cc42f6e85f7415b47a[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Thu Apr 12 18:40:08 2018 +0200
+
+    Pridat jmeno Magdaleny
+    
+    Ucim se Git a tohle je moje prvni zmena.
+
+[33mcommit 047069316fa54c0299f4ff2054f8599d76e3c7d9[m
+Author: Miroslava Kadlecová <miroslava.kadlecova@gmail.com>
+Date:   Thu Apr 12 18:38:41 2018 +0200
+
+    Pridat jmeno Miru
+    
+    Ucim se Git a tohle je moje prvni zmena.
+
+[33mcommit cbff18d5f0cab37901219f6dd04e26676263e207[m
+Author: Kája <kaja@joja.cz>
+Date:   Thu Apr 12 18:38:31 2018 +0200
+
+    Přidat jméno Kája_Matejková
+    
+    přidáno jméno a povolání.
+
+[33mcommit ccd50f60fc577b9bf37ea1bae7a1fa94841acc5d[m
+Author: Míša R <michaela.radova@email.cz>
+Date:   Thu Apr 12 18:38:21 2018 +0200
+
+    přidán soubor Misa.txt
+
+[33mcommit 0a93d593b7b7b8ec66d1d772ac459174e0985dbb[m
+Author: Blanka <blanka.turcanova@gmail.com>
+Date:   Thu Apr 12 18:38:17 2018 +0200
+
+    test
+
+[33mcommit e6a0408ec1bf71434d0af5f8ebb7fb1c174dcb6d[m
+Author: Markéta Svobodová <marketasvobodova18@gmail.com>
+Date:   Thu Apr 12 18:37:49 2018 +0200
+
+    muj prvni commit
+
+[33mcommit 39495803c565d40dbfdac29019b27c2c054d6574[m
+Author: Radka Marty <martyradka@gmail.com>
+Date:   Thu Apr 12 18:35:06 2018 +0200
+
+    Pridat jmeno Radky Marty
+    
+    Ucim se git a tohle je muj prvni pokus
+
+[33mcommit 83ecc56c3b206813f89d9ee5ba5b7f48dd72c025[m
+Author: Kristyna Poncova <k.poncova@gmail.com>
+Date:   Thu Apr 12 18:34:51 2018 +0200
+
+    pridani noveho souboru
+
+[33mcommit 3498be46d3f2d1169c266fa192bcfd04930c8181[m
+Author: Karolína Jastřembská <st30646@student.upce.cz>
+Date:   Thu Apr 12 18:34:34 2018 +0200
+
+    Pridat jmeno Karolina
+    
+    Ucim se GIT a tohle je moje prvni zmena.
+
+[33mcommit 25c559d5b5df69fc341057bf51cbf0e2fd1752f9[m
+Author: Blanka Pilátová <blanipilat@gmail.com>
+Date:   Thu Apr 12 18:32:30 2018 +0200
+
+    MUJ PRVNI COMMIT
+    
+    git clone https://github.com/asgeirrr/prezencka
+
+[33mcommit 0ca761e1950ed03fa8d7e57a9e0e76e348c01437[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Thu Apr 12 17:56:00 2018 +0200
+
+    Odstraň soubory z předchozích běhů
+
+[33mcommit 83c48d190d7d25c225a8bcb4d1961819b5707fb8[m
+Merge: 8456f09 a0c3037
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:53:18 2018 +0200
+
+    Merge pull request #104 from hroncok/master
+    
+    Odebral jsem z README divný řádek
+
+[33mcommit a0c3037b9d75058bf3807d4d1a3e62de828be0d3[m
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:52:23 2018 +0200
+
+    Odebral jsem z README divný řádek
+
+[33mcommit 8456f09e9a1dc7a1cc897daeed3a791b26918916[m
+Merge: 463050e 4d7c0c9
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:43:09 2018 +0200
+
+    Merge pull request #77 from schonter/master
+    
+    Pridala jsem soubor s jednim radkem random textu
+
+[33mcommit 463050e6a8dd1757624d7dab8e738b8d0a832991[m
+Merge: c6c4ae2 92f3ff7
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:57 2018 +0200
+
+    Merge pull request #79 from petulica/master
+    
+    Přidala jsem soubor s pozdravem čápa.
+
+[33mcommit c6c4ae265be7c88bced436f05ea3b9929c74f754[m
+Merge: 5fcdf4f 22ea605
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:48 2018 +0200
+
+    Merge pull request #78 from ivusak/master
+    
+    Přidala jsem poprvé soubor se svým jménem.
+
+[33mcommit 5fcdf4f279fd9babf523d6969af2a4977285c153[m
+Merge: c250c2b 92a06d8
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:34 2018 +0200
+
+    Merge pull request #80 from RadkaSt/master
+    
+    Pridala jsem soubor se svym jmenem
+
+[33mcommit c250c2bb80ed280f9a4b7f81db3e4db9d79bfc84[m
+Merge: 96097a6 f14bcde
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:26 2018 +0200
+
+    Merge pull request #81 from Lucka-R/master
+    
+    Přidala jsem si svůj vlastní soubor s náhodnou hláškou
+
+[33mcommit 96097a605d3b126c513aff8a4b03ae5281e6d3d3[m
+Merge: 265501e 1a5df1d
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:20 2018 +0200
+
+    Merge pull request #82 from MarieGrecka/master
+    
+    Pridala jsem soubor s inicialy a lokaci
+
+[33mcommit 265501eb63d51fa04ee3afcc86a5b8907a5f1994[m
+Merge: 9b08612 7f75cc5
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:18 2018 +0200
+
+    Merge pull request #83 from zuzimira/master
+    
+    Pridala jsem soubor s otazkou, zda to funguje.
+
+[33mcommit 9b0861227203de2d0724d2ae209e040cbadad1b3[m
+Merge: b8ea3eb 6763a9c
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:42:06 2018 +0200
+
+    Merge pull request #84 from Lenka1234/master
+    
+    soubor s pozdravem
+
+[33mcommit b8ea3eb274764dd293281aa55e080562c04fccf2[m
+Merge: 205a777 88b8d72
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:41:59 2018 +0200
+
+    Merge pull request #85 from ronikave/master
+    
+    Přidala jsem soubor se svým jménem
+
+[33mcommit 205a7774a15b18ce824fe43a66bf4b520902681a[m
+Merge: da1c28a f3658f5
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:41:56 2018 +0200
+
+    Merge pull request #87 from hroncok/master
+    
+    Přidal jsem soubor se svým jménem
+
+[33mcommit da1c28a329b2c92e99e97fc2b7fc3feb3ce628ea[m
+Merge: 8203aa3 df565f1
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:41:39 2018 +0200
+
+    Merge pull request #88 from KaterinaCerna/master
+    
+    Pridala jsem radek se svym jmenem
+
+[33mcommit 8203aa3e323a5b8983db1aa58a32f55fa27e0120[m
+Merge: 117ce17 2ea1986
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:41:26 2018 +0200
+
+    Merge pull request #89 from mibajic/master
+    
+    Pridal jsem soubor se svym jmenem
+
+[33mcommit 117ce1714b69713222b68604b81ef722d69cf07e[m
+Merge: b8b77f5 c6519e8
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:40:59 2018 +0200
+
+    Merge pull request #90 from lucierozumkova/master
+    
+    Přidala jsem soubor se svým jménem
+
+[33mcommit b8b77f508b53218184275281b45e5934480ebaf2[m
+Merge: 07fd244 70cf33f
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:40:07 2018 +0200
+
+    Merge pull request #91 from tuile/master
+    
+    Auto troubí
+
+[33mcommit 07fd244314c4639d9da89ba1d8f6011833ab0fd5[m
+Merge: 2849195 ef2a6c0
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:39:43 2018 +0200
+
+    Merge pull request #92 from hadka/master
+    
+    Pridala som subor o tom, ze sa ucim git
+
+[33mcommit 2849195fac8bc319aad9d3ad2f29a3ee9112173e[m
+Merge: 858a623 929886a
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:39:35 2018 +0200
+
+    Merge pull request #93 from anyss/master
+    
+    Přikládám soubor
+
+[33mcommit 858a6233800a1304f31cc05d5276f439df4e24d5[m
+Merge: b6169f5 37c2d32
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:39:26 2018 +0200
+
+    Merge pull request #94 from sonkoles/master
+    
+    Pridala jsem soubor se svym jmenem
+
+[33mcommit b6169f50dce04f07b9a5697cc0fc3da9d8884646[m
+Merge: a4cdc68 7a5f8a7
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:39:13 2018 +0200
+
+    Merge pull request #95 from evadoskova/master
+    
+    Pridala jsem soubor s nepovedenym haiku
+
+[33mcommit a4cdc68c7d5f3bbc943218318cfd155d11a7d205[m
+Merge: 3d3d82b 46c450d
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:39:04 2018 +0200
+
+    Merge pull request #96 from alexandrasasa/master
+    
+    pridal jsem soubor se svym jmenem
+
+[33mcommit 3d3d82be612b835fd98be77225275b1f3c7f5087[m
+Merge: 11ae2ad 3c846d3
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:38:54 2018 +0200
+
+    Merge pull request #97 from daryatim/master
+    
+    Pridala jsem novy textovy soubor
+
+[33mcommit 11ae2ad93f715dd8c1243063ab1d5ef3dd01fc31[m
+Merge: 145da86 6958425
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:38:47 2018 +0200
+
+    Merge pull request #98 from mvesela/master
+    
+    Přidala jsem soubor zbytečného textu
+
+[33mcommit 145da8649ff1d78e3e6a253579c90ce8c2a5d39a[m
+Merge: 7408436 e04f9c0
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:38:40 2018 +0200
+
+    Merge pull request #100 from hedusk/master
+    
+    Přidala jsem soubor se svým jménem.
+
+[33mcommit 7408436095283d145b1dbcf412cfcee916260ed1[m
+Merge: 05ff73e 1d5b2d5
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:38:32 2018 +0200
+
+    Merge pull request #101 from ElmiraSabirova/master
+    
+    new file was added
+
+[33mcommit 05ff73e98bd6fc2f7acbd909849496302256246c[m
+Merge: 875f14f c0dcdb6
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:37:47 2018 +0200
+
+    Merge pull request #99 from lucipomi/master
+    
+    Opet dalsi zkouska :)
+
+[33mcommit 875f14fc863ddcc6843b45fceeb29043fa184cfc[m
+Merge: 7d076f7 173879c
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:37:33 2018 +0200
+
+    Merge pull request #102 from budgiena/master
+    
+    Přidala jsem jméno
+
+[33mcommit 7d076f7c4aefcb60c75b0db3d36bc550444979d4[m
+Merge: b29492e d7dde52
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:37:08 2018 +0200
+
+    Merge pull request #103 from Lidamos2/master
+    
+    popis dne
+
+[33mcommit b29492ea7a784be94cfcc6ca9c287acc0463ce38[m
+Merge: b695e12 61a6cf5
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 19:36:21 2018 +0200
+
+    Merge pull request #86 from cocolosa/master
+    
+    Pridala jsem slozku
+
+[33mcommit 173879c602ec0bcae5268d14d6917c42c69f331a[m
+Author: Zuzana Vojtíšková <ZuzanaVo@email.cz>
+Date:   Wed Apr 11 19:31:58 2018 +0200
+
+    Opravila jsem kódování
+
+[33mcommit 929886a3c0cadfd74953cffedbf97188fcba4cf8[m
+Author: Aneta Leskourová <leskourova@gmail.com>
+Date:   Wed Apr 11 18:59:13 2018 +0200
+
+    first commit
+
+[33mcommit c0dcdb6a587a348afe78507df6dcfbaab9756cf6[m
+Author: Lucie Pomichalkova <pomichalkova@gmail.com>
+Date:   Wed Apr 11 18:54:08 2018 +0200
+
+    Opet dalsi zkouska :)
+
+[33mcommit 37c2d322a5a600f562f6eebb4ae4e9fee40320a2[m
+Author: Sofia Kolesnikova <sonkoles@gmail.com>
+Date:   Wed Apr 11 18:44:58 2018 +0200
+
+    Pridala jsem soubor se svym jmenem
+
+[33mcommit 6763a9c6a0a0f761e931ebc0af674556f9872fdd[m
+Author: Lenka Husárová <lenka@husarova.cz>
+Date:   Wed Apr 11 18:51:20 2018 +0200
+
+    soubor s pozdravem
+
+[33mcommit 61a6cf5076ef0413f05592ea6d9ff72725c522e1[m
+Author: Jana Martinková <m.jaja2@seznam.cz>
+Date:   Wed Apr 11 18:44:36 2018 +0200
+
+    Pridala jsem slozku
+
+[33mcommit 7f75cc5d71ba2e7b0b7b8c4dedfe884ead59a17e[m
+Author: Zuzana Filova <zuzana.filova@volny.cz>
+Date:   Wed Apr 11 18:47:25 2018 +0200
+
+    Pridala jsem soubor s otazkou, zda to funguje.
+
+[33mcommit df565f14fdaed5bc058ccf5d732c37c235e2961b[m
+Author: Katerina Cerna <katerina-cerna@centrum.cz>
+Date:   Wed Apr 11 18:46:10 2018 +0200
+
+    Pridala jsem radek se svym jmenem
+
+[33mcommit ac9e6ef6b4ae7d4ae0ae2efb50f64470dc947500[m
+Author: Aneta Leskourová <leskourova@gmail.com>
+Date:   Wed Apr 11 18:45:48 2018 +0200
+
+    Přidávám nový soubor
+
+[33mcommit d7dde52625544f08c0f596b3264452efbb6c7a19[m
+Author: Monika Skálová <skalamp@seznam.cz>
+Date:   Wed Apr 11 18:45:47 2018 +0200
+
+    popis dne
+
+[33mcommit 695842521438d84dcf1db8075b7ff524d247fea0[m
+Author: Markéta Veselá <marketa_vesela@yahoo.com>
+Date:   Wed Apr 11 18:45:39 2018 +0200
+
+    Přidala jsem soubor zbytečného textu
+
+[33mcommit 92a06d80aedf94e99e74c107ec19fbba33c963cd[m
+Author: Radka Štorchová <Radka.Sklenickova@gmail.com>
+Date:   Wed Apr 11 18:45:31 2018 +0200
+
+    Pridala jsem soubor se svym jmenem
+
+[33mcommit 1a5df1d53bc3b2a8b4145880c9775b99fbbf59ff[m
+Author: Marie Grecká <marie,grecka@gmail.com>
+Date:   Wed Apr 11 18:45:27 2018 +0200
+
+    Pridala jsem soubor s inicialy a lokaci
+
+[33mcommit 7a5f8a70c8501ea58a595ecc42bc6fb6ef2639d4[m
+Author: „Eva <edoskova@gmail.com>
+Date:   Wed Apr 11 18:45:27 2018 +0200
+
+    Pridala jsem soubor s nepovedenym haiku
+
+[33mcommit 3c846d3ad9a1d4d2f8d5bb4064cd67501c8b63ae[m
+Author: Darya Tim <daryatim91@gmail.com>
+Date:   Wed Apr 11 18:45:26 2018 +0200
+
+    Pridala jsem novy textovy soubor
+
+[33mcommit 4f67bbde750cdba29b632fc7594621b355fa53e8[m
+Author: Zuzana Vojtíšková <ZuzanaVo@email.cz>
+Date:   Wed Apr 11 18:45:22 2018 +0200
+
+    Přidala jsm soubor s popisem stavu mého počítače
+
+[33mcommit 88b8d72669fd107dcecbcc670c0d78eff39d18b1[m
+Author: Veronika Obrdlíková <obrdlikova.v@gmail.com>
+Date:   Wed Apr 11 18:45:19 2018 +0200
+
+    Přidala jsem soubor se svým jménem
+
+[33mcommit 4d7c0c9586dda28de1acbd295e44210bb60fb132[m
+Author: Tereza Schonfeldova <schonfeldter@gmail.com>
+Date:   Wed Apr 11 18:45:17 2018 +0200
+
+    Pridala jsem soubor s jednim radkem random textu
+
+[33mcommit c6519e82032669ef5ce3214b6878ce061fbbef53[m
+Author: Lucie Rozumková <rozumkova.lucie@gmail.com>
+Date:   Wed Apr 11 18:44:54 2018 +0200
+
+    Přidala jsem soubor se svým jménem
+
+[33mcommit 22ea605fb7afd400ab7602cac3caad35e6d04b55[m
+Author: Ivana Kubásková <ivanakubaskova@seznam.cz>
+Date:   Wed Apr 11 18:44:53 2018 +0200
+
+    Přidala jsem poprvé soubor se svým jménem.
+
+[33mcommit 92f3ff77697979d040f82f06c1256026442e860e[m
+Author: Peto <cernohlavkovapetra@centrum.cz>
+Date:   Wed Apr 11 18:44:51 2018 +0200
+
+    Přidala jsem soubor s pozdravem čápa.
+
+[33mcommit 46c450d7e6f82a4e590f4220401c29659289294d[m
+Author: Alexandra Hromkova <alexandra.hr@email.cz>
+Date:   Wed Apr 11 18:44:51 2018 +0200
+
+    pridal jsem soubor se svym jmenem
+
+[33mcommit 70cf33fb81bca9aedb0b122e5113aee6c48fa2de[m
+Author: Iva Ryzlerova <peeetja@seznam.cz>
+Date:   Wed Apr 11 18:44:42 2018 +0200
+
+    Auto troubí
+
+[33mcommit f14bcdef716949cf9581ca15c00849d1ab4e9100[m
+Author: Lucka R <luc.rihova@gmail.com>
+Date:   Wed Apr 11 18:44:37 2018 +0200
+
+    Přidala jsem si svůj vlastní soubor s náhodnou hláškou
+
+[33mcommit 2ea1986ec96553e9a5fa93a3d7cf541d866dd9b9[m
+Author: Mia Bajic <mia_bajic@live.com>
+Date:   Wed Apr 11 18:44:26 2018 +0200
+
+    Pridal jsem soubor se svym jmenem
+
+[33mcommit ef2a6c00c49b71fae4faea9031bf5ecd0d691fb7[m
+Author: Andrea Chovanova <andreaa.chovanova@gmail.com>
+Date:   Wed Apr 11 18:44:24 2018 +0200
+
+    Pridala somubor o tom, ze sa ucim git
+
+[33mcommit f3658f52f7cd42351a87bd72f946b9be5242fba8[m
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Wed Apr 11 18:44:22 2018 +0200
+
+    Přidal jsem soubor se svým jménem
+
+[33mcommit e04f9c02ff563dc9cb7a837ef3deb40bc46ec782[m
+Author: Jana Lepšová <lepsova.jana@gmail.com>
+Date:   Wed Apr 11 18:39:37 2018 +0200
+
+    Přidala jsem soubor se svým jménem.
+
+[33mcommit 1d5b2d59c9acec261a8b68369b8bf0dc1009a53d[m
+Author: Elmira <saelrina@gmail.com>
+Date:   Wed Apr 4 16:26:02 2018 +0200
+
+    new file was added
+
+[33mcommit a9291db62edf31b11fdf5bcdc6de8e0b764373ae[m
+Author: monase9 <32871341+monase9@users.noreply.github.com>
+Date:   Tue Oct 17 14:19:13 2017 +0200
+
+    monika_vlckova.txt
+    
+    pridavam
+
+[33mcommit b695e120de84c3c0cae11df97b326762714423bb[m
+Merge: 4ff6c5b e5e9d9a
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:47:52 2017 +0200
+
+    Merge pull request #75 from kunzovaaneta/master
+    
+    Přidávám soubor s mým jménem
+
+[33mcommit 4ff6c5b9643768b448f9971fb681b1a87b066544[m
+Merge: 1db0d77 30f22bc
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:47:43 2017 +0200
+
+    Merge pull request #74 from rezinak/master
+    
+    pridala jsem svoje jmeno, Rezi
+
+[33mcommit 1db0d7736bd1553e978dd4f2a3f21f709f563759[m
+Merge: b81ea41 1f525e6
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:47:33 2017 +0200
+
+    Merge pull request #73 from hanaschreiberova/master
+    
+    Přidávám soubor se sebou, Hana S
+
+[33mcommit b81ea419ed2c084ae0009ce9d33c980f2ef1f38e[m
+Merge: 26924fe 27890bc
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:47:22 2017 +0200
+
+    Merge pull request #72 from Imwu/master
+    
+    Přidávám soubor se sebou, Ivanou Poláčkovou.
+
+[33mcommit 26924fe37551e9dcabf204babc085a1745b0a1f6[m
+Merge: 8e8d8d4 ffcac21
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:47:05 2017 +0200
+
+    Merge pull request #71 from zenobia2/master
+    
+    přidávám soubor se sebou, Radka :-)
+
+[33mcommit 8e8d8d486d610a551602f5733f6f02c193862d70[m
+Merge: 09375ab 69f0d04
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:46:57 2017 +0200
+
+    Merge pull request #70 from bellfiore/master
+    
+    Přidávám soubor se sebou, Denisou Jaškovou
+
+[33mcommit 09375abceda73d449b7b81f1d3e3f32610a71797[m
+Merge: 7cf9814 c43d92a
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:46:48 2017 +0200
+
+    Merge pull request #68 from ela13/master
+    
+    Pridavam soubor se svym jmenem.
+
+[33mcommit 7cf9814cf92b8a301098068634e490de2d01e62f[m
+Merge: edc5a01 7d50a63
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:46:18 2017 +0200
+
+    Merge pull request #69 from 4d4nsoni4/master
+    
+    pridavam sebe
+
+[33mcommit edc5a01761c431134ea06e3f668e771d2448196a[m
+Merge: aef6714 5c33b62
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:46:01 2017 +0200
+
+    Merge pull request #67 from ReginaFF/master
+    
+    Pridavam informace o sobe, Regina Fuchsova
+
+[33mcommit aef671429ab4ba30c7ba6c1d9faddc1b38b3c139[m
+Merge: 786849a e5be819
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:45:53 2017 +0200
+
+    Merge pull request #65 from Zuzanita/master
+    
+    Přidávám soubor se sebou, Zuzanou Pokornou
+
+[33mcommit 786849a970604891ddc0870d82d279805839e1f0[m
+Merge: 04292e6 5607e14
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:45:43 2017 +0200
+
+    Merge pull request #63 from hroncok/master
+    
+    Přidávám soubor se sebou, Mirem Hrončokem
+
+[33mcommit 04292e6f81b21f2428846a3bb335e24ae8cc5297[m
+Merge: 0d70d43 faa035d
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:45:18 2017 +0200
+
+    Merge pull request #66 from miyaque/master
+    
+    Pridavam soubor se sebou, mariiVe
+
+[33mcommit 0d70d4346118939771c1e01a5902650e0ebd93c8[m
+Merge: 58c8b33 c829374
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:44:54 2017 +0200
+
+    Merge pull request #64 from alizeberkam/master
+    
+    Pridala jsem soubor se svym zamestnanim a jmenem.
+
+[33mcommit 58c8b3368d2fcd5a3646630266ee42468954f759[m
+Merge: 3cc8005 82f7902
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:44:42 2017 +0200
+
+    Merge pull request #62 from bestzye/master
+    
+    Přidávám sama sebe si, protože proto
+
+[33mcommit 3cc80052b4f709ff575c00ea57a0ba7b0d0c177b[m
+Merge: 3cfcaa4 59b69cb
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:44:12 2017 +0200
+
+    Merge pull request #61 from karlukova/master
+    
+    Pridala jsem soubor
+
+[33mcommit 3cfcaa4270a24a920bba7301af6f431e91477870[m
+Merge: 8596d4c b999aab
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 19:43:58 2017 +0200
+
+    Merge pull request #60 from evawashere/master
+    
+    Pridavam se, atOM nefunguje.
+
+[33mcommit 59b69cbca6a84903398328e31e9bd8b77a3dffbe[m
+Author: Elena Karlukova <karlukova@email.cz>
+Date:   Mon Oct 16 19:11:25 2017 +0200
+
+    Pridala jsem soubor
+
+[33mcommit b999aabb42d1dabe494e0677e3bcc2fbd65fe51b[m
+Author: Efka <evasatavova@gmail.com>
+Date:   Mon Oct 16 19:10:01 2017 +0200
+
+    Pridavam se, atOM nefunguje.
+
+[33mcommit 27890bc2f60e39175cd1f933f9e1d9a5b11914fc[m
+Author: Imwu <polackova.ivca@gmail.com>
+Date:   Mon Oct 16 19:09:49 2017 +0200
+
+    Odmazala jsem jeden řádek, který byl na začátku zbytečný.
+
+[33mcommit 7d50a638c2905e7fdad273ed4203a63ba98b293f[m
+Author: Anežka Gruberová <anezka.gruberova@seznam.cz>
+Date:   Mon Oct 16 19:07:27 2017 +0200
+
+    pridavam sebe
+
+[33mcommit faa035de51395fc8e9ef80b746696c3f5a8d2da3[m
+Author: Marie Venclu <mavenclu@gmail.com>
+Date:   Mon Oct 16 19:06:00 2017 +0200
+
+    uprava marie.txt
+
+[33mcommit 9cd51b7dd5a1fee726ed42237b4e0c1e248c59ff[m
+Author: Marie Venclu <mavenclu@gmail.com>
+Date:   Mon Oct 16 19:05:10 2017 +0200
+
+    test
+
+[33mcommit 30f22bce030c8f7f5ab4b1a6215d2a78607153ca[m
+Author: Rezina Koudelkova <terezanadejova@gmail.com>
+Date:   Mon Oct 16 19:04:50 2017 +0200
+
+    pridala jsem svoje jmeno, Rezi
+
+[33mcommit ffcac211085b9d320d76d0b0fb521e9f169864cb[m
+Author: Radana Gogová <swedagon@centrum.cz>
+Date:   Mon Oct 16 19:03:37 2017 +0200
+
+    přidávám soubor se sebou, Radka :-)
+
+[33mcommit c43d92ad2b87f7131d0957a9fcf3a7f2101fc17d[m
+Author: Michaela Nekardova <ela.nekardova@gmail.com>
+Date:   Mon Oct 16 19:02:23 2017 +0200
+
+    Pridavam soubor se svym jmenem.
+
+[33mcommit e5e9d9a176c5c9f41ed011dbd3949782d558ca3f[m
+Author: Aneta Kunzováns <kunzovaaneta@seznam.cz>
+Date:   Mon Oct 16 19:00:24 2017 +0200
+
+    Přidávám soubor s mým jménem
+
+[33mcommit 1f525e65db638b1e9bcf7d77da72f28a0fa68107[m
+Author: Hana Schreiberová <hanaschreiberova@seznam.cz>
+Date:   Mon Oct 16 18:59:34 2017 +0200
+
+    Přidávám soubor se sebou, Hana S
+
+[33mcommit c8293745be625f457af5dcd43e49b725c0d04ad9[m
+Author: Alice Hamalová <a.hamalova@seznam.cz>
+Date:   Mon Oct 16 18:59:18 2017 +0200
+
+    Pridala jsem soubor se svym zamestnanim.
+
+[33mcommit 7ef65f7f9c6d4136f75690fbbf1aeb924eab6812[m
+Author: Imwu <polackova.ivca@gmail.com>
+Date:   Mon Oct 16 18:59:15 2017 +0200
+
+    Přidala jsem soubor se sebou, Ivanou Poláčkovou.
+
+[33mcommit 5c33b6229dc3f98546839b551a54a50b275002f7[m
+Author: Regina Fuchsova <regina@pybook.network.cz>
+Date:   Mon Oct 16 18:59:13 2017 +0200
+
+    Pridavam informace o sobe, Regina Fuchsova
+    Pridavam informace o sobe, Regina Fuchsova
+    Pridavam informace o sobe, Regina Fuchsova
+
+[33mcommit 5607e144c016b300f6336eae6170962270dc3649[m
+Author: Miro Hrončok <miro@hroncok.cz>
+Date:   Mon Oct 16 18:59:12 2017 +0200
+
+    Přidávám soubor se sebou, Mirem Hrončokem
+
+[33mcommit 82f7902c10d6eaa4d4753779f5f719d87b7ad5a7[m
+Author: Katerina Vobecka <vobecka.k@gmail.com>
+Date:   Mon Oct 16 18:59:12 2017 +0200
+
+    Přidávám sama sebe si, protože proto
+
+[33mcommit 69f0d0416553173001bb38b939c20f9562ecc0c9[m
+Author: Denisa Jašková <denisa.jaskova@gmail.com>
+Date:   Mon Oct 16 18:59:06 2017 +0200
+
+    Přidávám soubor se sebou, Denisou Jaškovou
+
+[33mcommit e5be8197522b888a473d94f651581a560c1fa802[m
+Author: Zuzka Pokorná <zuzanapokorna@seznam.cz>
+Date:   Mon Oct 16 18:59:04 2017 +0200
+
+    Přidávám soubor se sebou, Zuzanou Pokornou
+
+[33mcommit 8596d4c422f05aa70583f2d6050fb20604f717cb[m
+Merge: 057657f 11cbc06
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 20:06:33 2017 +0200
+
+    Merge pull request #55 from kristynadrmotova/master
+    
+    abc
+
+[33mcommit 057657f729cfd628cedbe0f123a0be0dd083b64c[m
+Merge: db01ad6 7a83cf8
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 20:04:09 2017 +0200
+
+    Merge pull request #58 from libusepoustkova/master
+    
+    pridala jsem jmeno
+
+[33mcommit db01ad6465423725aa2a627e05adf8b032bc1a91[m
+Merge: 45d3360 7324c87
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 20:03:41 2017 +0200
+
+    Merge pull request #57 from TanaBP/master
+    
+    zmena
+
+[33mcommit 45d33601430c56f689b1c26a8c51eddf8a9b5be8[m
+Merge: d3c8474 ad8647c
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 20:01:13 2017 +0200
+
+    Merge pull request #54 from tereza-edita/master
+    
+    novej requestík
+
+[33mcommit d3c847402490a967afb81cbe6e2a9a92b6406ea6[m
+Merge: fd8fee4 641b104
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:58:37 2017 +0200
+
+    Merge pull request #52 from Ivkatrebon/master
+    
+    nazdarek
+
+[33mcommit fd8fee492a95f3f5761f7102571d4a435ec4b8f7[m
+Merge: 6a8bdae dfd416a
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:58:21 2017 +0200
+
+    Merge pull request #53 from gkroci/master
+    
+    Zmena
+
+[33mcommit 6a8bdaef47dcbd99bbf768fa6103b6471e51129e[m
+Merge: 5e0174e 9805774
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:52:51 2017 +0200
+
+    Merge pull request #51 from kudlus/master
+    
+    zmena
+
+[33mcommit 5e0174eb615f39239ff91a48962863f3ca8b825f[m
+Merge: 5bf97fc c4a1685
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:52:34 2017 +0200
+
+    Merge pull request #45 from nikolk/master
+    
+    Prezencka rijen 2017
+
+[33mcommit 5bf97fc7c0ebfc13815e793f19a2da64f154af78[m
+Merge: ab9f3f5 f7deced
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:52:10 2017 +0200
+
+    Merge pull request #44 from Lucey121/master
+    
+    zkouska
+
+[33mcommit ab9f3f5bf1e5f4699cf3485f0f9899efac851df5[m
+Merge: 7b97d5e 43d7b64
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:50:46 2017 +0200
+
+    Merge pull request #48 from hanjak/master
+    
+    Prezencka Oktober 2017
+
+[33mcommit 7b97d5e677b5a63b8532f69ed6c61d0c45b02e34[m
+Merge: ed35596 61bc1a7
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:50:10 2017 +0200
+
+    Merge pull request #49 from LucieTomiskova/master
+    
+    Prezencka Oktober 2017
+
+[33mcommit ed35596a6e8c3841b2eb6c8b50b410ad30bc93bf[m
+Merge: fc2de7a 253f703
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:49:27 2017 +0200
+
+    Merge pull request #50 from Lejmonka/master
+    
+    prezencka oktober 2017
+
+[33mcommit fc2de7ab89556de4f5a9a8b0d9d829492641aff0[m
+Merge: 9fa385f 80965fc
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:48:33 2017 +0200
+
+    Merge pull request #47 from darthvu/master
+    
+    Prezencka Rijen 2017
+
+[33mcommit 641b1041471bb61bfadbb3539e38b59cc13626b2[m
+Author: Ivana Čurdová <curdova.ivana@gmail.com>
+Date:   Tue Oct 10 18:48:05 2017 +0100
+
+    nazdarek
+
+[33mcommit 9fa385fc4017e91d44e685aa6fb9695dac2be70e[m
+Merge: 864171c dd1335a
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:48:03 2017 +0200
+
+    Merge pull request #46 from EliskaPy/master
+    
+    pridala jsem "ahoj"
+
+[33mcommit 864171c1446458a72c0e59918c91b0e52c6a72cf[m
+Merge: a2c3034 febb5ee
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:44:35 2017 +0200
+
+    Merge pull request #42 from radushi/master
+    
+    Prezencka 2017/10
+
+[33mcommit a2c30342f9674b7a43753bd248917a867725cb82[m
+Merge: 35d697d 6023730
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:43:45 2017 +0200
+
+    Merge pull request #41 from hararova-alzbeta/master
+    
+    pridano jmeno
+
+[33mcommit 35d697d61d4e29eabd9236052960a418c0577b19[m
+Merge: 526a8b3 6cb7564
+Author: Oskar Hollmann <hollmann@spaceknow.com>
+Date:   Tue Oct 10 19:41:52 2017 +0200
+
+    Merge pull request #43 from Aprillion/master
+    
+    Prezencka Oktober 2017
+
+[33mcommit ad8647ce58ec65152c6f2d00d726de67a17fe16f[m
+Author: Tereza Hronová <t.e.hronova@gmail.com>
+Date:   Tue Oct 10 18:56:47 2017 +0200
+
+    jsem tu
+
+[33mcommit 7324c877ec8f46345c9fecd5ee0db8480d1d740a[m
+Author: Tatiana BP <pospibarte@gmail.com>
+Date:   Tue Oct 10 18:53:54 2017 +0200
+
+    prezencka Oktober 2017
+
+[33mcommit dfd416a76bad8af25877d3e3f5befa5f2c4cdbf0[m
+Author: Gabriela Krocilova <g.krocilova@gmail.com>
+Date:   Tue Oct 10 18:51:11 2017 +0200
+
+    Prezencka Oktober 2017
+
+[33mcommit 7a83cf897913d6b360126bc0b19c3dbed92f4a65[m
+Author: Libuse Poustkova <libuse.poustkova@seznam.cz>
+Date:   Tue Oct 10 18:50:51 2017 +0200
+
+    Prezencka October 2017
+
+[33mcommit f7deced05bbcb0a92c10cbbe7f0c7c388e708c66[m
+Author: Lucka <lucie.stysova@gmail.com>
+Date:   Tue Oct 10 18:50:35 2017 +0200
+
+    zkouska
+
+[33mcommit 11cbc0645600d7dbd89015cc96efc4817e42662c[m
+Author: Kristýna Drmotová <kristynadrmotova@seznam.cz>
+Date:   Tue Oct 10 18:50:29 2017 +0200
+
+    Prezencka Rijen 2017 aktualizovana
+
+[33mcommit 1511aae8f7aa917ac81b966e21d0059b757183e7[m
+Author: Tereza Hronová <t.e.hronova@gmail.com>
+Date:   Tue Oct 10 18:50:10 2017 +0200
+
+    přidán nový soubor tereza_hronova.txt
+
+[33mcommit c4a1685a5c2ab70deae07b56356d1cb2a75fcae9[m
+Author: Nikol Kupková <nikol.kupkova@gmail.com>
+Date:   Tue Oct 10 18:49:35 2017 +0200
+
+    Prezencka rijen 2017
+
+[33mcommit 43d7b64de500aedc7e6d1c776233a3c7f4f0d6ff[m
+Author: Hana Kosova <hanja.kosova@gmail.com>
+Date:   Tue Oct 10 18:49:16 2017 +0200
+
+    Prezencka Oktober 2017
+
+[33mcommit 80965fc3232c23469751239a54e1b0bbeccd59c3[m
+Author: Sylva Vu <aisha155@centrum.cz>
+Date:   Tue Oct 10 18:48:54 2017 +0200
+
+    Prezencka Rijen 2017
+
+[33mcommit 9f20e7ba63e802de4e4d6382db555e8f6c750f1f[m
+Author: Tatiana BP <pospibarte@gmail.com>
+Date:   Tue Oct 10 18:48:22 2017 +0200
+
+    prezencka Oktober 2017
+
+[33mcommit 98057745082a3b49947f010c06b73940d1f07eda[m
+Author: Zuzana Richtrová <kudlus@seznam.cz>
+Date:   Tue Oct 10 18:48:07 2017 +0200
+
+    prezencka rijen 2017
+
+[33mcommit 61bc1a7840f4e8616495c3bfe6b8a42a78a365c0[m
+Author: Lucie Tomiskova <tomiskovalucie@gmail.com>
+Date:   Tue Oct 10 18:47:56 2017 +0200
+
+    Prezencka Oktober 2017
+
+[33mcommit 253f70344c23bb13164ba77acbe36e56e93357ee[m
+Author: Daniela Voskova <danka.voska@gmail.com>
+Date:   Tue Oct 10 18:47:56 2017 +0200
+
+    prezencka oktober 2017
+
+[33mcommit ee703da1d75ccde381a0866d34617eb153b333b4[m
+Author: Kristýna Drmotová <kristynadrmotova@seznam.cz>
+Date:   Tue Oct 10 18:47:56 2017 +0200
+
+    Prezencka Rijen 2017
+
+[33mcommit 6cb75641d9da0a2bad82ad8791d265c855f17583[m
+Author: Peter Hozak <peter.hozak@merck.com>
+Date:   Tue Oct 10 18:47:54 2017 +0200
+
+    Prezencka Oktober 2017
+
+[33mcommit febb5eed6e07abebae4f69dd296b521d9f2cf202[m
+Author: Radka P <radka.pudilova@gmail.com>
+Date:   Tue Oct 10 18:47:27 2017 +0200
+
+    Prezencka 2017/10
+
+[33mcommit 1efb9dcd0fb5694946b7749c37e80b7c919973d0[m
+Author: Gabriela Krocilova <g.krocilova@gmail.com>
+Date:   Tue Oct 10 18:45:40 2017 +0200
+
+    Prezencka Oktober 2017
+
+[33mcommit dd1335af95d840366f28f08ef7aa2773716aadff[m
+Author: Eliska Doktorova <eliska.doktorova@gmail.com>
+Date:   Tue Oct 10 18:44:01 2017 +0200
+
+    pridala jsem "ahoj"
+
+[33mcommit 6023730482cc346599ed6511033655f6824da142[m
+Author: Alzbeta Hararova <hararova.alzbeta@gmail.com>
+Date:   Tue Oct 10 18:43:51 2017 +0200
+
+    pridano jmeno
+
+[33mcommit 51e59880850ab9717de9d170362d97b6aef1a91d[m
+Author: Jana Hlisnikovska <jana.hlisnikovska@outlook.cz>
+Date:   Fri Sep 15 23:35:19 2017 +0200
+
+    Přidán čas, kdy jsem na tomto pracovala.
+
+[33mcommit 526a8b3813226e75e58d20fc1e0d80cbe89e4d0e[m
+Merge: ee8e009 8415657
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Mon Apr 10 20:22:42 2017 +0200
+
+    Merge pull request #38 from AnnaRehorkova/master
+    
+    Přidávám svoji maličkost
+
+[33mcommit ee8e009e127b65ad797c6b4ad9689fc5aa48c74e[m
+Merge: c215a13 6d926d2
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Mon Apr 10 20:18:56 2017 +0200
+
+    Merge pull request #37 from PetraVavrouskova/master
+    
+    pridala jsem prvni a druhy radek
+
+[33mcommit 84156571daf6fd82efc8a7d97fd7c777b0299352[m
+Author: UCNK FF UK <UCNK FF UK>
+Date:   Mon Apr 10 18:31:23 2017 +0200
+
+    Přidávám svoji maličkost
+
+[33mcommit 6d926d2224e1a6675a3e921ce69f53c7e65e7e12[m
+Author: Petra Vavroušková <petra.vavrouskova@gmail.com>
+Date:   Mon Apr 10 17:58:53 2017 +0200
+
+    pridala jsem prvni a druhy radek
+
+[33mcommit c215a130c378f2a312bd9b92b4e702a26d523b6e[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:47:34 2017 +0200
+
+    Tohle bude silna konfliktaz
+
+[33mcommit c9be3e7f28193a9382e6c4a5b88e576f415850ab[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:43:20 2017 +0200
+
+    Udelal jsem nejake zmeny
+
+[33mcommit 2a70e89e25dd7fc5eca15ca41a80d60390b61223[m
+Merge: c17556b 2b67395
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:36:21 2017 +0200
+
+    Merge branch 'master' of https://github.com/asgeirrr/prezencka
+
+[33mcommit 2b673958ff62b94ffae09ca67e144d4894fe786b[m
+Merge: ec73b4f bbbae7e
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:36:09 2017 +0200
+
+    Merge pull request #19 from lucska/master
+    
+    Pridala jsem svoje jmeno, abychom se poznali
+
+[33mcommit ec73b4f4c3b710f053eb63fc9d70606c3cd24b95[m
+Merge: 54ecfc0 f893f41
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:35:50 2017 +0200
+
+    Merge pull request #20 from luckabastova/master
+    
+    Pridala jsem sve jmeno, abychom se poznali
+
+[33mcommit 54ecfc08b399e40dbc3bd1b2132701b9c9459bcf[m
+Merge: 49ac29c 4736b79
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:35:38 2017 +0200
+
+    Merge pull request #21 from 1Vicky1/master
+    
+    Pridavam sve jmeno, protoze proto.
+
+[33mcommit 49ac29c4e9e2622a3669990b66672c5ba95e1799[m
+Merge: d58c850 3c697b2
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:35:21 2017 +0200
+
+    Merge pull request #18 from fetasyr/master
+    
+    Pridala jsem sve jmeno...
+
+[33mcommit d58c850bd1ab6b9cb0f508b6be4eb2973fe883b4[m
+Merge: 8ce85dd 26954ad
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:35:10 2017 +0200
+
+    Merge pull request #22 from TeaGrll/master
+    
+    Pridala jsem sve jmeno, abychom se poznali.
+
+[33mcommit 8ce85dde4b2d0c7a1ee7a26a93965e1f611cf3d6[m
+Merge: eddea20 d161a05
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:35:00 2017 +0200
+
+    Merge pull request #17 from radusaaa/master
+    
+    pridala jsem sve jmeno, protoze Oskar chtel:)
+
+[33mcommit eddea204883db97ad91e790aad0efebadb49b85f[m
+Merge: c7571bf 9b2f4fd
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:34:39 2017 +0200
+
+    Merge pull request #23 from ksycz/master
+    
+    Pridala jsem sve jmeno
+
+[33mcommit 3c697b2cde2ad6e60f545bad58f0482138c00e10[m
+Merge: 2fd84b5 c7571bf
+Author: Lucie Kůrová <lucik-k@email.cz>
+Date:   Tue Apr 4 19:33:16 2017 +0200
+
+    Merge branch 'master' of https://github.com/asgeirrr/prezencka
+
+[33mcommit c7571bfc37f3bec40a3577fe9f1496f22661f45b[m
+Merge: 31ee2f4 2156063
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:32:22 2017 +0200
+
+    Merge pull request #24 from Marmaduke89/master
+    
+    Pridala jsem sve jmeno
+
+[33mcommit 31ee2f4acebd09c9c8cac5532ce7733ee03f9467[m
+Merge: f072c71 48134bf
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:31:05 2017 +0200
+
+    Merge pull request #25 from noika/master
+    
+    přidala jsem větu o Malé Čarodějnici, aby byla legrace
+
+[33mcommit 2fd84b55217ab25f4a3282080d4685dcb5d793b4[m
+Merge: b728f0a f072c71
+Author: Lucie Kůrová <lucik-k@email.cz>
+Date:   Tue Apr 4 19:29:32 2017 +0200
+
+    Merge branch 'master' of https://github.com/asgeirrr/prezencka
+
+[33mcommit c17556b1db82377b721fb7239e8862c60cdd1f63[m
+Merge: e82ae8a f072c71
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:29:27 2017 +0200
+
+    Merge branch 'master' of https://github.com/asgeirrr/prezencka
+
+[33mcommit f072c71aadd04308495b102ddb1c3fa818390579[m
+Merge: 2b89cc5 9d8b3c7
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:28:11 2017 +0200
+
+    Merge pull request #26 from Zaskolnaiveta/master
+    
+    Přidáno mé jméno a povolání
+
+[33mcommit 2b89cc5ae8f50dfa657f10f0d1044e08bf91d5dd[m
+Merge: c3dde17 3efea87
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:27:46 2017 +0200
+
+    Merge pull request #27 from vperinova/master
+    
+    Přidala jsem soubor plný nesmyslů
+
+[33mcommit c3dde176bde1e48984786c3d81bef8a41023627e[m
+Merge: 86f0cbe 8e524ba
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:27:29 2017 +0200
+
+    Merge pull request #28 from cervinkova/master
+    
+    Do not open. Trespassers will be shot
+
+[33mcommit 86f0cbeae729cd6dccf3eada53db7a4d6d0067e1[m
+Merge: 0f30597 ea28cfc
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 19:26:21 2017 +0200
+
+    Merge pull request #16 from tystar86/master
+    
+    pridal jsem sve jmeno
+
+[33mcommit 9d8b3c7d8344504e671338b5f093d10a636ede54[m
+Author: Iveta Zaskolna <Zaskolnaiveta@seznam.cz>
+Date:   Tue Apr 4 18:58:13 2017 +0200
+
+    Pøidáno mé jméno a povolání
+
+[33mcommit 3efea87445c32449a22dff6e9a136972a83ff770[m
+Author: globalista <vperinova@gmail.com>
+Date:   Tue Apr 4 18:56:23 2017 +0200
+
+    Přidala jsem soubor plný nesmyslů
+
+[33mcommit 8e524ba8f5bb67fcb3a9bb59b3c9dc4be2e8ac7b[m
+Author: Kateřina Červinkova <k.cervinkova@centrum.cz>
+Date:   Tue Apr 4 18:51:18 2017 +0200
+
+    Do not open. Trespassers will be shot
+
+[33mcommit 9b2f4fd38c33228d63ff17dfed04207c52f08204[m
+Author: Katarzyna Sycz <katarzynasycz@gmail.com>
+Date:   Tue Apr 4 18:50:25 2017 +0200
+
+    Pridala jsem sve jmeno
+
+[33mcommit b728f0ac520e3b0d81ee3581d9805cdd34a681b9[m
+Author: Lucie Kůrová <lucik-k@email.cz>
+Date:   Tue Apr 4 18:50:14 2017 +0200
+
+    Pridala jsem sve jmeno...
+
+[33mcommit d161a05160a1fb92b5526096e7522a174b694d1c[m
+Author: Radka Planková <radka.plankova@gmail.com>
+Date:   Tue Apr 4 18:50:05 2017 +0200
+
+    pridala jsem sve jmeno, protoze Oskar chtel:)
+
+[33mcommit 26954ada854a250e301b24dbfa580996f52cd0d9[m
+Author: Tereza Mikulášová <teagrll@gmail.com>
+Date:   Tue Apr 4 18:49:40 2017 +0200
+
+    Pridala jsem sve jmeno, abychom se poznali.
+
+[33mcommit f893f41ed3d6e3acdfc69cf320b6a7c513a4fe8c[m
+Author: Lucie Bastova <Lucie.Bastova@nielsen.com>
+Date:   Tue Apr 4 18:49:35 2017 +0200
+
+    Pridala jsem sve jmeno, abychom se poznali
+
+[33mcommit 4736b79538ca16e13aab3b62b9ca530c6d6f96b9[m
+Author: Olga Vindušková <olga.vinduskova@gmail.com>
+Date:   Tue Apr 4 18:49:28 2017 +0200
+
+    Pridavam sve jmeno, protoze proto.
+
+[33mcommit 48134bfee7e7c59a6c00addaf795576500493f60[m
+Author: Nora Koranova <nora.koranova@gmail.com>
+Date:   Tue Apr 4 18:49:27 2017 +0200
+
+    přidala jsem větu o Malé Čarodějnici, aby byla legrace
+
+[33mcommit 2156063a819d46e80bde35d85695690700f059ed[m
+Author: Katka Vanova <kat.vanova@gmail.com>
+Date:   Tue Apr 4 18:49:26 2017 +0200
+
+    Pridala jsem sve jmeno
+
+[33mcommit e82ae8ae40543a5671cea48d7c1159791ae55fe7[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Apr 4 18:49:24 2017 +0200
+
+    Pridal jsem sve jmeno, abychom se poznali
+
+[33mcommit ea28cfc5dd39c1ea1488f3ba927477ed399acb18[m
+Author: Stepanka <stepankalucinova@gmail.com>
+Date:   Tue Apr 4 18:49:23 2017 +0200
+
+    pridal jsem sve jmeno
+
+[33mcommit bbbae7e05699ca07262e12b3acb8790fc9b54c22[m
+Author: Lucie Zemanova <lucska@gmail.com>
+Date:   Tue Apr 4 18:49:17 2017 +0200
+
+    Pridala jsem svoje jmeno, abychom se poznali
+
+[33mcommit 0f305972803131cb6c8637359fee8ede3005bba6[m
+Merge: effa89b 175f4cc
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:17:00 2016 +0100
+
+    Merge pull request #1 from muzikovam/master
+    
+    Tady mas jmeno
+
+[33mcommit effa89b8422f6b849a3369fb02bb88b3ad4d83d5[m
+Merge: 566f768 9236bc1
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:14:53 2016 +0100
+
+    Merge pull request #2 from taryodor/Matej
+    
+    Tak, druhy, snad lepsi pokus o pridani z vule vyssich bytosti.
+
+[33mcommit 566f768342fbc1101c9b5be76a9c3363e709f0a5[m
+Merge: 4353636 0a5d7e5
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:14:34 2016 +0100
+
+    Merge pull request #3 from crimsoncress/MittensuvPlys
+    
+    Přidala jsem svoje jméno, abychom se navzájem lépe poznali.
+
+[33mcommit 435363636b4d30b8ceadd3b320bd5afecbded4c9[m
+Merge: c6fc5ec e56aef2
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:14:17 2016 +0100
+
+    Merge pull request #4 from TerezaKS/vetevTereza
+    
+    Napsala jsem svoje jmeno abych si vyzkousela jak funguje git
+
+[33mcommit c6fc5ec05b69619f4a3d01f3305ba4455b96ab18[m
+Merge: 7538c9c eba8ce5
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:13:39 2016 +0100
+
+    Merge pull request #5 from asgeirrr/OskarovoJmeno
+    
+    Pridal jsem svoje jmeno, abychom se navzajem poznali
+
+[33mcommit 7538c9c024d1b283fcdab314342d1038b1a7f29a[m
+Merge: 7abb425 2b8e8bc
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:13:28 2016 +0100
+
+    Merge pull request #6 from leenai/Juli
+    
+    Toto je moje jmeno. Obe. Moje jmena.
+
+[33mcommit 7abb425927f2c77cdeb6dd85c298abf9b9db9ac7[m
+Merge: 37ed378 357890b
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:13:06 2016 +0100
+
+    Merge pull request #8 from PetraCudova/Petra
+    
+    Pridala jsem soubor
+
+[33mcommit 37ed37835661024fb788a6ad38e3696a388e42b6[m
+Merge: 60b7178 8723a8d
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:12:50 2016 +0100
+
+    Merge pull request #9 from Lelonka/LeonaZ
+    
+    Přidal jsem svoje jméno, abychom se navzájem poznali ;-)
+
+[33mcommit 60b717897fdaf288b47cbeee731a21a18ddd63f1[m
+Merge: f037928 8075d96
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:12:30 2016 +0100
+
+    Merge pull request #10 from Aendys/master
+    
+    Soubor s mým jménem
+
+[33mcommit f0379283d6c0c7c97a634be294144bbb3971d91d[m
+Merge: 2b942e3 4fce2a2
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:12:04 2016 +0100
+
+    Merge pull request #11 from mullerovas/SilvyJmeno
+    
+    Pridala jsem svoje jmeno, protože to Oskar chtěl.
+
+[33mcommit 2b942e312884d6113a3c8f6c30cc9fd4166cfc8a[m
+Merge: 6f87fc4 7a4f285
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:11:48 2016 +0100
+
+    Merge pull request #12 from hanakysela/Hanka
+    
+    Pridala jsem svoje jmeno, abychom se navzajem poznali.
+
+[33mcommit 6f87fc42cf077136047397f744a6d752491df965[m
+Merge: 12303e2 29edfc7
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 8 20:11:23 2016 +0100
+
+    Merge pull request #13 from ZofieZuzka/Zuzkajmeno
+    
+    Přidali jsme sem svoje jméno , aby jsme se poznali.
+
+[33mcommit 4fce2a20818f0f4e2797bc58d7f842576e561d5c[m
+Author: Silvie Mullerova <mullerova.silvie@gmail.com>
+Date:   Tue Nov 1 19:44:27 2016 -0700
+
+    Pridala jsem svoje jmeno, protože to Oskar chtěl.
+
+[33mcommit 175f4cc666e94927da4197c0e75d1474b1545c76[m
+Merge: 410daea 12303e2
+Author: Marketka <muzikovam@gmail.com>
+Date:   Tue Nov 1 19:31:47 2016 +0100
+
+    Merge branch 'master' of https://github.com/asgeirrr/prezencka
+
+[33mcommit 12303e25221efc79ccf07d5e26590716aa21cdbc[m
+Merge: d54abce ad787e3
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 1 19:16:16 2016 +0100
+
+    Merge pull request #15 from 071Mars/Pavluse
+    
+    NECO
+
+[33mcommit d54abcefd6c4d1b046e3000aa14be07ec889e090[m
+Merge: d6b27a0 1baa77a
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 1 19:15:48 2016 +0100
+
+    Merge pull request #14 from IvaFingerova/ivouni
+    
+    Ivounův krásný commit od srdce pro Oskara
+
+[33mcommit d6b27a0a9613d40a2e66bf6465b4d7b68c3da318[m
+Merge: 1b33126 fb72327
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 1 19:15:17 2016 +0100
+
+    Merge pull request #7 from dolente/Kokoko
+    
+    Kokoko
+
+[33mcommit 357890ba00456a6cbf7e942fe880a29630ccb61c[m
+Author: Petra <cupetra@seznam.cz>
+Date:   Tue Nov 1 18:53:30 2016 +0100
+
+    Pridala jsem soubor
+
+[33mcommit fb723274d4cf691a773774a058dcad17ccff8117[m
+Author: Janucha <jpaciskova@gmail.com>
+Date:   Tue Nov 1 18:53:10 2016 +0100
+
+    Tak teď jsem tam fakt už něco přidala. Still a mystery.
+
+[33mcommit 410daea5f165c999558ed3060aa0e35ca4044222[m
+Author: Marketka <muzikovam@gmail.com>
+Date:   Tue Nov 1 18:46:13 2016 +0100
+
+    Tady mas jmeno
+
+[33mcommit 29edfc71c79df79a757dbc1be80e41a95f38fdce[m
+Author: Zuzka Bieliková <adela.novotna@example.cz>
+Date:   Tue Nov 1 18:45:59 2016 +0100
+
+    Přidali jsme sem svoje jméno , aby jsme se poznali.
+
+[33mcommit 9236bc15cd14b0876a35ce88ec4ba0924dc11746[m
+Author: Matěj Lachman <matej.lachman@email.cz>
+Date:   Tue Nov 1 18:44:47 2016 +0100
+
+    Tak, druhy, snadlepsi pokus o pridani z vule vyssich bytosti.
+
+[33mcommit 8075d96040821adf049af6f647c999e1ef6119ec[m
+Author: Andrea Hořavová <andrea.horavova@gmail.com>
+Date:   Tue Nov 1 18:44:41 2016 +0100
+
+    Soubor s mým jménem
+    Já jsem andrea
+
+[33mcommit 0a5d7e5e1355583200ada2040fcda489d56b369c[m
+Author: Lucie Borovičková <lucie.borovickova@studenti.gymkh.eu>
+Date:   Tue Nov 1 18:44:22 2016 +0100
+
+    Moje jméno.
+
+[33mcommit ad787e37bffef037743e47a5413b7b1615837629[m
+Author: Pavla Savelkova <pavla.savelkova@seznam.cz>
+Date:   Tue Nov 1 18:44:05 2016 +0100
+
+    NECO
+
+[33mcommit e56aef2dab6ecc2a7d0d17e6f16c9c9908567a4c[m
+Author: Tereza Krčilová Spálenková <tereza.spalenkova@honeywell.com>
+Date:   Tue Nov 1 18:42:13 2016 +0100
+
+    Napsala jsem svoje jmeno abych si vyzkousela jak funguje git
+
+[33mcommit 8723a8d57e5af6d0f39944d9e35c80946414ab27[m
+Author: Leona Zieglerová <zieglerova.leona@seznam.cz>
+Date:   Tue Nov 1 18:42:08 2016 +0100
+
+    Přidal jsem svoje jméno, abychom se navzájem poznali ;-)
+
+[33mcommit 1baa77a9b729d4296b085c990e65b87a942418f1[m
+Author: IvaFingerova <Ivuska@Iva-MacBook-Air-2.local>
+Date:   Tue Nov 1 18:42:00 2016 +0100
+
+    Ivounův krásný commit od srdce pro Oskara
+
+[33mcommit eba8ce5aa88f70bda20e55c23c6735ed530962b8[m[33m ([m[1;31morigin/OskarovoJmeno[m[33m)[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 1 18:41:46 2016 +0100
+
+    Pridal jsem svoje jmeno, abychom se navzajem poznali
+
+[33mcommit 7a4f28502495f4d22c228a72dac560680b204b4e[m
+Author: Hana Kysela <hana.kysela@gmail.com>
+Date:   Tue Nov 1 18:41:43 2016 +0100
+
+    Pridala jsem svoje jmeno, abychom se navzajem poznali.
+
+[33mcommit 2b8e8bcbaa9fd0a00b2e16e944a67f104453b851[m
+Author: Jana Ceska <jana.ceska@gmail.com>
+Date:   Tue Nov 1 18:41:42 2016 +0100
+
+    Toto je moje jmeno. Obe. Moje jmena.
+    Tak nejak.
+
+[33mcommit 7dbaf3564b975371b2fe47b613785d1ad3259d3e[m
+Author: Janucha <jpaciskova@gmail.com>
+Date:   Tue Nov 1 18:41:34 2016 +0100
+
+    Pridala jsem svoje jméno. Ale je falešné. I'm a mystery.
+
+[33mcommit 1b3312686754efc4ab7a8f8be4cb590647899cce[m
+Author: Oskar Hollmann <oskar@hollmann.me>
+Date:   Tue Nov 1 17:56:49 2016 +0100
+
+    Initial commit
